@@ -5,7 +5,7 @@
   "recording_oracle_address": "0xB113043105b06e98776A74b796Eb40e451C717B9",
   "reputation_oracle_address": "0x92a2eEF7Ff696BCef98957a0189872680600a959",
   "echange_oracle_address": "0x1413862C2B7054CDbfdc181B83962CB0FC11fD92",
-  "recording_oracle_url": "http://ec2-3-15-230-238.us-east-2.compute.amazonaws.com:3006/job/results",
-  "reputation_oracle_url": "http://ec2-3-15-230-238.us-east-2.compute.amazonaws.com:3005/job/results",
+  "recording_oracle_url": "http://ec2-3-15-230-238.us-east-2.compute.amazonaws.com:3005/job/results",
+  "reputation_oracle_url": "http://ec2-3-15-230-238.us-east-2.compute.amazonaws.com:3006/job/results",
   "exchange_oracle_url": "http://ec2-3-15-230-238.us-east-2.compute.amazonaws.com:3001"
 }
